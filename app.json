@@ -1,4 +1,5 @@
 {
+	"app" : "demo-ckan",
     "name": "ckan",
     "services": [
     	"drupal"
